@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Gh connect",
+  "applicationTitle": "Gh connect",
+  "items": [
+    {
+      "link": null,
+      "menuName": "gh-connect",
+      "caption": "GhConnect",
+      "title": "GhConnect",
+      "children": [
+        {
+          "link": "i-i-s-gh-connect-new-class1-l",
+          "menuName": null,
+          "caption": "New class1",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

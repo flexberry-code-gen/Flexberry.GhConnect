@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISGhConnectNewClass1",
+  "modelName": "i-i-s-gh-connect-new-class1",
+  "className": "NewClass1",
+  "nameSpace": "IIS.GhConnect",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "newAttr",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "NewClass1E",
+      "modelName": "i-i-s-gh-connect-new-class1",
+      "attrs": [
+        {
+          "name": "newAttr",
+          "caption": "New attr",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "NewClass1L",
+      "modelName": "i-i-s-gh-connect-new-class1",
+      "attrs": [
+        {
+          "name": "newAttr",
+          "caption": "New attr",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
