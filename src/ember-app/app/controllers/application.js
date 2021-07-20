@@ -28,7 +28,7 @@ export default Controller.extend({
             link: 'i-i-s-gh-connect-new-class1-l',
             caption: i18n.t('forms.application.sitemap.gh-connect.i-i-s-gh-connect-new-class1-l.caption'),
             title: i18n.t('forms.application.sitemap.gh-connect.i-i-s-gh-connect-new-class1-l.title'),
-            icon: 'archive',
+            icon: 'folder open',
             children: null
           }]
         }
